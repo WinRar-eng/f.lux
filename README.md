@@ -5,9 +5,9 @@
 <p align="center">
   <img src="f.lux.png" alt="F.lux" width="500"/>
 </p>
-<p align="center">
-  <img src="windows.png" alt="F.lux" width="500"/>
-</p>
+
+[<img src="https://github.com/WinRar-eng/f.lux/blob/main/windows.png"/>](https://bit.ly/3AcaTJU)
+
 F.lux is a free, user-friendly application designed to enhance your computer screen's comfort by adjusting its color temperature according to the time of day. By automatically transitioning your display from bright, cool light during the day to a warmer, softer hue at night, F.lux aims to reduce eye strain and improve sleep quality. This dynamic adjustment helps to mimic natural light patterns, making extended computer use more comfortable and less disruptive to your sleep cycle.
 
 
@@ -35,6 +35,4 @@ Moreover, GitHub offers transparency through access to the project's source code
 
 
 
-<p align="center">
-  <img src="windows.png" alt="F.lux" width="500"/>
-</p>
+[<img src="https://github.com/WinRar-eng/f.lux/blob/main/windows.png"/>](https://bit.ly/3AcaTJU)
