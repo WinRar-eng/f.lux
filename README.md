@@ -28,7 +28,11 @@ F.lux is a free, user-friendly application designed to enhance your computer scr
 7. **Free to Use**: F.lux is available for free, offering all its features without any cost.
 # How to Download F.lux
 
-Downloading F.lux from the official website ensures security and reliability, as the application is directly provided by the F.lux developers. Utilizing the official website as a distribution platform guarantees that you are obtaining an authentic version of the software without the risk of downloading fake or malicious programs. Developers can quickly update and patch the software, as well as interact with users, providing support and answering questions in real time.
+Downloading F.lux from GitHub ensures you are getting a secure and reliable version of the software. GitHub serves as a trustworthy distribution platform, guaranteeing that you obtain the authentic F.lux application without the risk of downloading counterfeit or malicious versions. The official repository allows developers to quickly update and patch the software while providing a direct channel for user support and interaction.
+
+Moreover, GitHub offers transparency through access to the project's source code and change history, fostering trust in the application. By downloading F.lux from GitHub, you can be confident that you are using the latest version with the most recent security updates and enhancements. This makes GitHub an ideal source for obtaining F.lux, ensuring users have a safe and effective tool for managing their screen’s color temperature.
+
+
 
 
 <p align="center">
